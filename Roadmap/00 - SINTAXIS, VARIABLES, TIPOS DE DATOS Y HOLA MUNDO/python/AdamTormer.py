@@ -9,4 +9,12 @@ donde no hay que hacer una apertura y un cierre
 phyton es genial.
 """
 
-mi_variable = "esta no tiene valor al menos q se asigne o sea algun resultado de una ecuacion"
+mi_variable=     "aca esta el valor de mi variable"
+mi_constante=    "aca el esta el valor de mi constante"        #en phyton no exiten las constantes 
+
+texto_o_cadena=  "estas son alfanumericas este texto y ya"     #tambien le dicen string 
+entero=          "80"
+decimal=         "3.14"                                        #tambien les dicen flotante 
+booleana=        "false o true"
+
+print("Hola, python")
